@@ -23,7 +23,7 @@ A simple, lightweight, and intuitive Todo List application built with **Flutter*
 
 1. **Clone the repository**
   ```bash
-  git clone [https://github.com/SATHVIK-CONNECT/Flutter_ToDoList.git](https://github.com/SATHVIK-CONNECT/Flutter_ToDoList.git)
+  git clone 'https://github.com/SATHVIK-CONNECT/Flutter_ToDoList.git;
   ```
 
 2. **Change directory**
