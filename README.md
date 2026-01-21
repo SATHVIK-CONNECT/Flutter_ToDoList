@@ -27,14 +27,14 @@ A simple, lightweight, and intuitive Todo List application built with **Flutter*
   ```
 
 2. **Change directory**
-   ```bash
-   cd flutter-todolist
-   ```
+  ```bash
+  cd flutter-todolist
+  ```
    
 3. **Fetch dependencies**
-   ```bash
-   flutter pub get
-   ```
+  ```bash
+  flutter pub get
+  ```
    
 4. **Launch the app**
   ```bash
@@ -85,8 +85,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 # 👨‍💻 Author
 
-Sathvik Palivela 
-AI / ML & Computer Vision Enthusiast
+Sathvik Palivela - AI / ML & Computer Vision Enthusiast
 
 # 📜 License
 
